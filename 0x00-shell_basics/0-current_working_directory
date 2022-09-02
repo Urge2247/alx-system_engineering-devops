@@ -1,2 +1,2 @@
-#!/bin/bash
-# My first shell script
+#!/bin/bash\n
+# My first shell script\n
