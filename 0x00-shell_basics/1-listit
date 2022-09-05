@@ -1,1 +1,2 @@
-this file is to list our dir contents
+#!/bin/bash
+ls
